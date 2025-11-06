@@ -3,7 +3,6 @@
 void fun(int *ptr)
 {
     *ptr=20000;
-
 }
 
 
