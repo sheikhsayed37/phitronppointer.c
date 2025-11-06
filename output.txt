@@ -1,2 +1,1 @@
-fun adress = 000000000061FDF0
-fun adress = 000000000061FE1C
+20000
