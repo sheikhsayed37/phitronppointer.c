@@ -4,6 +4,8 @@ void fun(int x)
     x=20;
     printf("%d\n",x);
 }
+
+
 int main()
 {
     int x=10;

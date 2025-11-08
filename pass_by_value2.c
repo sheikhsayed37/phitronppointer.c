@@ -5,6 +5,9 @@ void fun(int x)
   printf("fun adress = %p\n",&x);
 
 }     // doiter e address alada
+
+
+
 int main()
 {
     int x=10;
